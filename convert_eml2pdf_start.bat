@@ -1,0 +1,1 @@
+wscript "C:\SERDATA\Programmierung_Skripte\eml2pdf\eml2pdf_GIT\eml2pdf\convert_eml2pdf.vbs"
